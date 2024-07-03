@@ -84,9 +84,10 @@ if __name__ == '__main__':
 
 # app.run(debug=True) # Dessa maneira sem epecificar a porta não rodava no meu pc com windows...
 
-#app.run() # http://127.0.0.1:5000 + '/inicio' "@app.route('/inicio')"
+#app.run() # http://127.0.0.1:5000 + '/inicio' "@app.route('/inicio')"pip
 # roda a aplicação na porta 5000 e o endereço como 127.0.0.1.
 
 # app.run(host='0.0.0.0', port=8080)
 # Se quiser usar a porta 8080 para aplicação ou até mesmo
 # permitir acessos externos à aplicação definindo o host como 0.0.0.0,
+
