@@ -22,6 +22,7 @@ usuario1 = Usuario("John Lennon", "JL", "pass1")
 usuario2 = Usuario("Paul Macartney", "PM", "pass2")
 usuario3 = Usuario("George Harrison", "GH", "pass3")
 usuario4 = Usuario("Ringo Star", "RS", "pass4")
+usuario5 = Usuario("Yoko Ono", "Yoko", "pass5")
 
 usuarios = {usuario1.nickname : usuario1,
             usuario2.nickname : usuario2,
